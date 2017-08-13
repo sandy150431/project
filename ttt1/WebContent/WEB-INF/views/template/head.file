@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+ <head>
+ 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ 	
+    <!--<meta charset="utf-8">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Work Time System</title>
+	
+	
+    <!-- css -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="./css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="./css/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css"/>
+	<link href="./css/animate.css" rel="stylesheet" />
+    <link href="./css/style.css" rel="stylesheet"/>
+
+	<!-- boxed bg -->
+	<link id="bodybg" href="./css/bodybg/bg1.css" rel="stylesheet" type="text/css" />	
+	<!-- template skin -->
+	<link id="t-colors" href="./css/color/default.css" rel="stylesheet">
+	<!-- tablecss -->
+	<link id="t-colors" href="./css/tablecss.css" rel="stylesheet">
+	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
